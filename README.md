@@ -16,4 +16,4 @@
   <img aling="center" alt="Python script" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   </div><br/>
 
- É roxeda programar, mas o github me faz duvidar disso.
+ "O cria que ganha é aquele que sabe a hora de zerar o pente e voltar pra trás da barricada"
