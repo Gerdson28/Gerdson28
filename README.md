@@ -1,5 +1,5 @@
-### Olá, Eu sou o Gc 🇧🇷
-### tenho 18 anos e estudo no IFCE👋🏾
+### Hi, I'm Gc 🇧🇷/ +085
+### I am eighteen years old and I study at the IFCE👋🏾
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gc.yung_?igshid=Mzc0YWU1OWY=)
 
