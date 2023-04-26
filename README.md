@@ -16,4 +16,8 @@
   <img aling="center" alt="Python script" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
   </div><br/>
 
+<p align="center"> 
+   <img src="https://github-profile-trophy.vercel.app/?username=nicolasnk11&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> 
+ </p>
+
  "O cria que ganha é aquele que sabe a hora de zerar o pente e voltar pra trás da barricada"
