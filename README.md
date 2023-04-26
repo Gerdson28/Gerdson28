@@ -4,7 +4,7 @@
 
 ![Gerdson28 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerdson28&show_icons=true&theme=tokyonight)
 
-### Linguas
+### Línguas 
 
 <div style="display: inline_block"><br/>
   <img aling="center" alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
