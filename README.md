@@ -23,3 +23,4 @@
  </p>
 
  "O cria que ganha é aquele que sabe a hora de zerar o pente e voltar pra trás da barricada"
+~ Sun Tzu
