@@ -1,5 +1,4 @@
 ### Olá, Eu sou o Gc 🇧🇷
-
 ### tenho 18 anos e estudo no IFCE👋🏾
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gc.yung_?igshid=Mzc0YWU1OWY=)
@@ -26,5 +25,6 @@
  <img src="https://user-images.githubusercontent.com/124712680/227727462-708dbe70-635e-4cca-875d-c3e3855ebb63.png" width="256px" /> 
  </div>
 
- "O cria que ganha é aquele que sabe a hora de zerar o pente e voltar pra trás da barricada"
+ "O cria que ganha é aquele que sabe a hora de zerar o pente e voltar pra trás da barricada."
+
 ~ Sun Tzu
