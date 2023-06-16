@@ -15,6 +15,8 @@
   </div>
   <div style="display: inline_block"><br/>
   <img aling="center" alt="Python script" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  </div>
+    <img align="center" alt="js" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   </div><br/>
 
 <p align="center"> 
