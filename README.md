@@ -1,3 +1,5 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Gerdson+Costa🇧🇷 🤾🏽‍♂️I+am+eighteen+years+old+and+i+study+at+the+IFCE,+CE;Welcome+to+My+Profile+:%29)](https://git.io/typing-svg)
+
 ### Hi, I'm Gerdson Costa 🇧🇷 🤾🏽‍♂️
 ### I am eighteen years old and I study at the IFCE👋🏾
 
