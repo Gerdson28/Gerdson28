@@ -23,10 +23,6 @@
    <img src="https://github-profile-trophy.vercel.app/?username=nicolasnk11&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> 
  </p>
 
-<div align="center"> 
- <img src="https://user-images.githubusercontent.com/124712680/227727462-708dbe70-635e-4cca-875d-c3e3855ebb63.png" width="256px" /> 
- </div>
-
  "O cria que ganha é aquele que sabe a hora de zerar o pente e voltar pra trás da barricada."
 
 ~ Sun Tzu
