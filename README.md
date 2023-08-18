@@ -1,8 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+Gerdson+Costa;I'm+eighteen+years+old+and+i+study+at+the+IFCE;*+Welcome+to+My+Profile+*)](https://git.io/typing-svg)
 
-### Hi, I'm Gerdson Costa 🇧🇷 🤾🏽‍♂️
-### I am eighteen years old and I study at the IFCE👋🏾
-
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gc.yung_?igshid=Mzc0YWU1OWY=)
 
 ![Gerdson28 GitHub stats](https://github-readme-stats.vercel.app/api?username=Gerdson28&show_icons=true&theme=tokyonight)
