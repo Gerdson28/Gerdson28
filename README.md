@@ -1,4 +1,4 @@
-### Hi, I'm Gc 🇧🇷/ +085
+### Hi, I'm Gerdson Costa 🇧🇷
 ### I am eighteen years old and I study at the IFCE👋🏾
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gc.yung_?igshid=Mzc0YWU1OWY=)
@@ -14,7 +14,7 @@
   <img aling="center" alt="Java Script" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" />
   </div>
   <div style="display: inline_block"><br/>
-  <img aling="center" alt="Python script" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white" />
+  
   </div>
     <img align="center" alt="js" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   </div><br/>
