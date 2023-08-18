@@ -1,4 +1,4 @@
-### Hi, I'm Gerdson Costa 🇧🇷
+### Hi, I'm Gerdson Costa 🇧🇷 🤾🏽‍♂️
 ### I am eighteen years old and I study at the IFCE👋🏾
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gc.yung_?igshid=Mzc0YWU1OWY=)
