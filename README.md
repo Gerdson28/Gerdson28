@@ -15,8 +15,8 @@ System.out.println("é complicado, mas não arregue");
 
    <a href="mailto: gerdsoncosta999@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
- [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/only.gc_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
 
+ <a href="https://www.instagram.com/only.gc_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
 </div>
  
 
