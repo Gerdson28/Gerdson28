@@ -1,19 +1,26 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=hello,+my+name+is+Gerdson+Costa;I'm+eighteen+years+old+and+i+study+at+the+IFCE;*+Welcome+to+My+Profile+*)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=F8F8FF&size=35&center=true&vCenter=true&width=1000&lines=hello,+my+name+is+Gerdson+Costa;I'm+eighteen+years+old+and+i+study+at+the+IFCE;•+Welcome+to+My+Profile+•)](https://git.io/typing-svg)
  
 <center>
 
-<div aling="center">
 
- ## •Contato📞•
+````java
 
-  
- <a href="mailto: gerdsoncosta999@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+System.out.println("Ouça Pumapjl 🎶");
+````
+ <div aling="center">
+
+ 
+  ## •Contato📞:
+
+
+   <a href="mailto: gerdsoncosta999@gmail.com" target="_blank"><img src= "https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 
  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/only.gc_?utm_source=qr&igshid=MzNlNGNkZWQ4Mg%3D%3D)
+
 </div>
  
-  
- ### •stats📊•
+
+ ## •stats 📊:
 
 
    <div align="center"> 
@@ -27,7 +34,7 @@
 
 
 
-### Línguas 
+## •Línguas 💻:
 
 
 <br aling="center">
@@ -45,7 +52,7 @@
   </div><br/>
  
 
-## Ferramentas🧰:
+## •Ferramentas 🧰:
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
