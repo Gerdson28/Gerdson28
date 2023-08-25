@@ -3,7 +3,7 @@
 <center>
 
 <div aling="center">
-
+<div>
 
 ## •Contato📞•
 
