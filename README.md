@@ -27,8 +27,13 @@
     <img align="center" alt="js" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />
   </div><br/>
 
+## 🛠 My tools:
+
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 <p align="center"> 
-   <img src="https://github-profile-trophy.vercel.app/?username=nicolasnk11&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> 
+   <img src="https://github-profile-trophy.vercel.app/?username=Gerdson28&theme=dark&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" /> 
  </p>
 
  "O cria que ganha é aquele que sabe a hora de zerar o pente e voltar pra trás da barricada."
