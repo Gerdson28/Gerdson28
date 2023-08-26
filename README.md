@@ -61,6 +61,4 @@ System.out.println("é complicado, mas não arregue");
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white) 
 
 
- "O cria que ganha é aquele que sabe a hora de zerar o pente e voltar pra trás da barricada."
-
-~ Sun Tzu
+ ## End 🙌🏾
