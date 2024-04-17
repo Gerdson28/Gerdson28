@@ -24,9 +24,6 @@ System.out.println("é complicado, mas não arregue");
 [![github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Gerdson28&theme=high-contrast)](https://github.com/Gerdson28/github-readme-activity-graph)
 
 
-
-
-
  <div align="center"> 
 
 ## •Línguas 💻:
@@ -36,9 +33,7 @@ System.out.println("é complicado, mas não arregue");
   <img align="center" alt="js" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
   <img align="center" alt="py" src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
  
-</div><br/>
-
- 
+</div><br/> 
 
 ## •IDE`S 🧰:
 
@@ -50,9 +45,11 @@ System.out.println("é complicado, mas não arregue");
  
 </div><br/>
 
+
 # •Gerenciamento de projetos 🧰:
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
+
 
 ## •Design 🎨:
 
