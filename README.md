@@ -12,7 +12,7 @@
  </div></a>
 
 ```java
-System.out.println("é complicado, mas não arregue");
+System.Out.Println("é complicado, mas não arregue");
 ```
    
  <div align="center">  
